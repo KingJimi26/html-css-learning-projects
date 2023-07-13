@@ -1,0 +1,20 @@
+.model3 {
+  font-size: 50px;
+  font-family:monserat bold;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.description {
+  font-family: montserrat;
+  text-align: center;
+  margin-top: 0;
+}
+
+.touchless {
+  text-decoration: underline;
+}
+.touchless:hover {
+  cursor: pointer;
+}

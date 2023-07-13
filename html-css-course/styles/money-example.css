@@ -1,0 +1,37 @@
+.dollars{
+  font-size: 45px ;
+  font-family: arial;
+  margin-bottom:0;
+  
+  }
+  
+  .USD{
+    color: gray;
+    font-size: 30px;
+  
+  }
+  
+  .green{
+    font-family: arial;
+    color: green;
+    margin-top:8px ;
+    
+  }
+  .button{
+    background-color: green;
+    color: yellow;
+    border:none;
+    border-radius: 5;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+  
+
+  }
+
+  .button:hover{
+    background-color: red;
+    color:blue;
+    cursor:pointer
+  }
+

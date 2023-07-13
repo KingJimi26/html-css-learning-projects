@@ -1,0 +1,111 @@
+.subscribe-button {
+  background-color: rgb(187, 9, 9);
+  color: white;
+  border: none;
+  border-radius: 1px;
+  padding-left:16px ;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer; 
+  margin-right: 12px;
+  transition: opacity 0.15s;
+  vertical-align: top;
+
+}
+
+.subscribe-button:hover {
+opacity: 0.8;
+}
+
+.subscribe-button:active {
+opacity: 0.5;
+}
+
+
+.join-button {
+background-color: white;
+border-color: rgb(57, 57, 225);
+border-style: solid;
+border-width: 1px;
+color: (57, 57, 225);
+padding-left: 15px;
+padding-right: 15px;
+padding-bottom: 9px;
+padding-top: 9px;
+border-radius: 2px;
+cursor: pointer;
+margin-right: 8px;
+transition: background-color 1s,
+color 1s;
+
+
+}
+
+.join-button:hover {
+  background-color:rgb(57, 57, 225); ;
+  color:white; ;
+}
+
+.join-button:active {
+  opacity: 0.6;
+}
+
+.tweet-button {
+ background-color: rgb(50, 152, 247);
+ border:rgb(50, 152, 247) ;
+ border-style: solid;
+ border-width: 1px;
+ color: white;
+ height: 36px;
+ width: 75px;
+ border-radius: 12px;
+ cursor: pointer;
+ font-weight: bold;
+ transition: box-shadow 0.15s;
+ vertical-align: top;
+
+}
+
+.tweet-button:hover {
+box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.tweet-button:active {
+background-color: yellowgreen;
+
+}
+
+
+.boob-button {
+background-color: #FFE7E7;
+background-position: 0 0;
+border: 1px solid #FEE0E0;
+border-radius: 11px;
+box-sizing: border-box;
+color: #D33A2C;
+cursor: pointer;
+display: flex;
+margin-left: 375px;
+line-height: 33px;
+font-size: 1rem;
+font-weight: 700;
+list-style: outside url(https://www.smashingmagazine.com/images/bullet.svg) none;
+padding: 2px 12px;
+text-align: left;
+text-decoration: none;
+text-shadow: none;
+text-underline-offset: 1px;
+transition: background-color .5s ease-in-out,box-shadow .2s ease-in-out;
+user-select: none;
+-webkit-user-select: none;
+touch-action: manipulation;
+white-space: nowrap;
+word-break: break-word;
+}
+.boob-button:hover {
+background-color: purple;
+}
+.boob-button:active {
+background-color: black;
+}   
